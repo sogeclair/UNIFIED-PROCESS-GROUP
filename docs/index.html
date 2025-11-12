@@ -129,7 +129,7 @@
 
     async function fetchProcessus() {   //récupération du json
       try {
-        const res = await fetch('./processus.json');  // généré par GitHub Action
+        const res = await fetch('./processus.json?nocache=${Date.now()}');  // généré par GitHub Action permet de recharger à chaque fois
         processus = await res.json();
         renderList();
       } catch (e) {
