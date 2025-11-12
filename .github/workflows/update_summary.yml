@@ -1,0 +1,82 @@
+name: Extract and update summary
+
+on:
+  push:
+    paths:
+      - 'zips/*.zip'
+
+permissions:
+  contents: write
+
+jobs:
+  process-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install unzip
+        run: sudo apt-get install unzip
+
+      - name: Remove deleted processes
+        run: |
+          shopt -s nullglob
+          for category in docs/processus/*; do
+            [ -d "$category" ] || continue
+            for dir in "$category"/*; do
+              [ -d "$dir" ] || continue
+              catname=$(basename "$category")
+              procname=$(basename "$dir")
+              zipname="${catname}_${procname}.zip"
+              if [ ! -f "zips/$zipname" ]; then
+                rm -rf "$dir"
+              fi
+            done
+          done
+
+      - name: Extract zip files
+        run: |
+          mkdir -p extracted
+          shopt -s nullglob
+          for file in zips/*.zip; do
+            base=$(basename "$file" .zip)
+            category="${base%%_*}"
+            procname="${base#*_}"
+            mkdir -p "docs/processus/$category/$procname"
+            unzip -o "$file" -d "extracted"
+            inner=$(unzip -Z1 "$file" | head -1 | cut -d/ -f1)
+            mv "extracted/$inner/"* "docs/processus/$category/$procname/" || true
+            rm -rf extracted/*
+          done
+
+      - name: Generate processus.json
+        run: |
+          echo "[" > docs/processus.json
+          first=true
+          for dir in $(find docs/processus -mindepth 2 -maxdepth 2 -type d); do
+          name=$(basename "$dir")
+          category=$(basename "$(dirname "$dir")")
+          title=$(echo "$name" | sed -e 's/-/ /g' -e 's/_/ /g' -e 's/\b\(.\)/\u\1/g')
+          
+          if [ "$first" = true ]; then
+            first=false
+          else
+            echo "," >> docs/processus.json
+          fi
+            cat <<EOF >> docs/processus.json
+          {
+            "title": "$title",
+            "link": "./processus/$category/$name/index.html",
+            "category": "$category"
+          }
+          EOF
+          done
+          echo "]" >> docs/processus.json
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add docs/
+          git commit -m "Mise à jour automatique du sommaire"
+          git push
