@@ -28,5 +28,5 @@ Ce site permet de **visualiser et gérer les processus métiers**. Il repose sur
 
 ## Bonnes pratiques
 
-- Nommez vos ZIP clairement, sans caractères spéciaux. En commençant par le nom de la catégorie en toutes lettres (ex : FINANCE_ProcessV1.zip)
+- Nommez vos ZIP clairement, sans caractères spéciaux. En commençant par le nom de la catégorie en toutes lettres (ex : FINANCE_ProcessV1.zip) et sans espaces
 - Soyez patient pour les processus volumineux : le workflow peut prendre plusieurs minutes à déployer.
