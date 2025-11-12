@@ -185,6 +185,11 @@
 
     // init - on recupère le json
     fetchProcessus();
+
+    setInterval(() => {
+      fetchProcessus();  // relance le fetch toutes les 5 secondes, par exemple
+    }, 5000);
+
   </script>
 </body>
 </html>
