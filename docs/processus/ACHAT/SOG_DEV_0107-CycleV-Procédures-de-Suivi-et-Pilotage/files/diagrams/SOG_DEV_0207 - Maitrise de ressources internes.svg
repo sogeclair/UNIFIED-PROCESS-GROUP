@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1950" height="2173px" viewBox="90, 46, 1950, 2173" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1">
+  <defs>
+    <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlow8ef6f831-ca52-488d-a89e-5bcbcf638ab1">
+      <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+    </marker>
+  </defs>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 967, 245)" id="gfx-44e6ef49-19f7-4f3c-9b84-1fa04b7838a9" display="block" class="djs-element djs-shape" data-element-id="44e6ef49-19f7-4f3c-9b84-1fa04b7838a9">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="212" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="212" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="22.10838" y="33.25">Analyser les activité réalisées vs RBS</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 967, 392)" id="gfx-27499841-0589-4082-aad0-147af186d7cf" display="block" class="djs-element djs-shape" data-element-id="27499841-0589-4082-aad0-147af186d7cf">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="212" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="212" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="6.601013" y="26.75">Identifier et Analyser les nouveaux besoins</tspan>
+          <tspan x="79.21929" y="39.75">VS baseline</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 967, 561)" id="gfx-ba055f86-6d94-4ef0-9ed4-dacd861362e6" display="block" class="djs-element djs-shape" data-element-id="ba055f86-6d94-4ef0-9ed4-dacd861362e6">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="212" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="212" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="56.17215" y="20.25">Analyser la charge &amp; </tspan>
+          <tspan x="31.7742" y="33.25">capacité/compétences pour les </tspan>
+          <tspan x="48.86315" y="46.25">activités/livrables à venir</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 983, 809)" id="gfx-73830dd8-c883-4147-a731-3abba8962342" display="block" class="djs-element djs-shape" data-element-id="73830dd8-c883-4147-a731-3abba8962342">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="180" height="79" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(82, 63)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1020, 832)" id="gfx-a1caddb3-b274-436a-b985-d879b0188876" display="block" class="djs-element djs-shape" data-element-id="a1caddb3-b274-436a-b985-d879b0188876">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="109" height="44" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="109" height="39" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="13.4357" y="14.75">SOG_DEV_0215 - </tspan>
+            <tspan x="11.72968" y="27.75">Gestion des écarts</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1058, 140)" id="gfx-cb75feb4-c9fc-4815-a5f4-9e8e6aab37e7" display="block" class="djs-element djs-shape" data-element-id="cb75feb4-c9fc-4815-a5f4-9e8e6aab37e7">
+      <g class="djs-visual">
+        <g>
+          <g transform="translate(-8.90625, -8.90625) scale(1.5)">
+            <path d="M16 25.2 C10.9 25.2 6.8 21.1 6.8 16 C6.8 10.9 10.9 6.8 16 6.8 C21.1 6.8 25.2 10.9 25.2 16 C25.2 21.1 21.1 25.2 16 25.2 L16 25.2 z" style="fill:#E6FF97;" />
+            <path d="M15.9 7 C20.9 7 24.9 11 24.9 16 C24.9 21 20.9 25 15.9 25 C10.9 25 6.9 21 6.9 16 C6.9 11 10.9 7 15.9 7 M15.9 6 C10.4 6 5.9 10.5 5.9 16 C5.9 21.5 10.4 26 15.9 26 C21.4 26 25.9 21.5 25.9 16 C25.9 10.5 21.4 6 15.9 6 z" stroke-width="0.2px" class="" style="fill:#62A716;stroke:#62A716;" />
+            <g>
+              <path d="M16 12 C18.2 12 20 13.8 20 16 C20 18.2 18.2 20 16 20 C13.8 20 12 18.2 12 16 C12 13.8 13.8 12 16 12 M16 11 C13.2 11 11 13.2 11 16 C11 18.8 13.2 21 16 21 C18.8 21 21 18.8 21 16 C21 13.2 18.8 11 16 11 z" style="fill:#62A716;" />
+              <polygon points="16,16 16,13 15,13 15,16 15,17 16,17 18,17 18,16" style="fill:#62A716;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1090, 142)" id="gfx-07c31ecc-e8b1-487b-b75b-07f651c61beb" display="block" class="djs-element djs-shape" data-element-id="07c31ecc-e8b1-487b-b75b-07f651c61beb">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="114" height="39" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="114" height="34" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="left" class="djs-label" style="fill:black;">
+            <tspan x="6" y="14.75">Cycle de reporting</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1220, 699)" id="gfx-d1c8cd4a-f641-475b-b309-0cb44fff2662" display="block" class="djs-element djs-shape" data-element-id="d1c8cd4a-f641-475b-b309-0cb44fff2662">
+      <g class="djs-visual">
+        <g>
+          <g transform="translate(-8.90625, -8.90625) scale(1.5)">
+            <path d="M16 25.2 A9.2 9.2 0 1 1 25.2 16 A9.2 9.2 0 0 1 16 25.2 z" style="fill:#EEAAAA;" />
+            <path d="M16 7.5 A8.5 8.5 0 1 1 7.5 16 A8.5 8.5 0 0 1 16 7.5 M16 6 A10 10 0 1 0 26 16 A10 10 0 0 0 16 6 z" stroke-width="0.4px" class="" style="fill:#990000;stroke:#990000;" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1058, 969)" id="gfx-dfb39498-b349-45ad-b79b-a1dd7cce2f14" display="block" class="djs-element djs-shape" data-element-id="dfb39498-b349-45ad-b79b-a1dd7cce2f14">
+      <g class="djs-visual">
+        <g>
+          <g transform="translate(-8.90625, -8.90625) scale(1.5)">
+            <path d="M16 25.2 A9.2 9.2 0 1 1 25.2 16 A9.2 9.2 0 0 1 16 25.2 z" style="fill:#EEAAAA;" />
+            <path d="M16 7.5 A8.5 8.5 0 1 1 7.5 16 A8.5 8.5 0 0 1 16 7.5 M16 6 A10 10 0 1 0 26 16 A10 10 0 0 0 16 6 z" stroke-width="0.4px" class="" style="fill:#990000;stroke:#990000;" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1053, 694)" id="gfx-2947a69a-3155-4b1e-84c0-0a1864d61ad6" display="block" class="djs-element djs-shape" data-element-id="2947a69a-3155-4b1e-84c0-0a1864d61ad6">
+      <g class="djs-visual">
+        <g>
+          <path d="M0 20 L20 40 L40 20 L20 0 z" stroke-width="1.8px" class="" style="fill:#FFFFCC;stroke:#A6A61D;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 964, 702)" id="gfx-742d9810-943d-4dae-8c86-0ee85b2cb969" display="block" class="djs-element djs-shape" data-element-id="742d9810-943d-4dae-8c86-0ee85b2cb969">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="90" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="7.669312" y="14.75">Ecart indentifié?</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 875, 64)" id="gfx-e95fd803-af11-44c9-82ce-a344d339c438" display="block" class="djs-element djs-shape" data-element-id="e95fd803-af11-44c9-82ce-a344d339c438">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="395" height="60" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="389" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZEAAABCCAYAAACW/OtiAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAbFJREFUeF7t1EGqXDEMBMC5/6WTGEYgTMszzg9k8aqgN6321i8AAAAAAAAAAAAAAACAH/p1yC5tKp/8zZuS3q6UdKvs0mYlSbsVAN7SJ9nTpXtPknY9J2nfU9Kt0qV7ZZc2FQDeps8x9albvulPt6Tf06Z3p105bfbuZgvwaNOHmfrULbf9crotn+7dN9tvNuVmC/Bo04eZ+tQtqU/dbtpM/eSbfd+cdsvNFuDR0mfZu6kvqVumvps2Uz/p+54u3VeStFsBYJM+y54u3Xu6qe+mzdRP+r5nlzaVXdpUAHhLn2RllzaV3elWps3UT36y70nSbgWAP24+xrRN3TL13bSZ+sntvvR3n97ebAEe4+ZjTNvUlX9xS/fdzXZ38/ZmC/AINx/jtL3tl9Nt6fe06d1pV6ZbenuzBXi0m49x2vb+023PSdr3lHSrlHTr6dK9B4C3m8/xtP32Nm0m6W2lpFulpFtllzYVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPjfXq/fz2DuIIQ/Sd0AAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1371, 64)" id="gfx-b1fc3e91-93e9-4148-b6ab-2b842a0b2a60" display="block" class="djs-element djs-shape" data-element-id="b1fc3e91-93e9-4148-b6ab-2b842a0b2a60">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="317" height="60" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="311" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUMAAABCCAYAAADNGLQWAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAptJREFUeF7t1kFqLDkQBFDf/9IzaJGQJCGpyn+Y38bvQSwqIrVrjL8AAAAAAOCb/mkB+JX8IQR+PX8IAQDe6P89pZyk+5XkdpO23vW+7Lbez5S0VaZ0s/JEereSpLuVKd1UpnQzs8zvpXczSbpbgR8h/XhnknTXM73ZS+96X3Zb72dK2ipd2is36U1lSjc9XdpnStpmlvm99G5mSjcV+BF2P9ren7Zpt/X+tpfezW1523d/enN6t7x5e7udW+qWXV9Oe9pSl5zubm/hY9x+yHNPXbfbZ9+3JfW9m9vytu/+q5udp2/7XbpN+/wuu76c9rSlLnl6Bx/t9kOe+/xO0s3sbvsyu9tedn339uZ0lzx9+52b+V12fTntaUtd0u9ut/Cxbj/iuc/vJN3M7rYvs7vtpfc9XdpXpic3O0/enrYyb/p3ys7pJm2960me3sHHuv145z6/k3Rz6pbTnrol7Uvve7q0ryRP75Lb213fzZv+PXNyuktb73p23tzCx7n9cOc+v5N0c+t6yq3r6XZ99+Rm6m/evFt2b1M3zZv5vaRuOt2kLXVP9Hdv38Jfc/rRpq13vS+7PXVL7+eeuqX3t33nyU3y3XdLetu73pe0z+8lddPpJm2pe+pP3sJfsfvR9v60TbvtST/31C29v+07T2+mJ++WN293/ZK21C27vpz2tKUuSfvTt/Ax+o92lyTd9UxPt76nrvRt7nPrKWmrlLRVbtKbSpLuerq3fTntaevdTJf2CvwY6QdcuUlvVpLv7KnrdnvvZ0raKiVtK0+kdysn6X5l+r+23s10aV8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfpGvr38BiQqwesZYvUUAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 453, 64)" id="gfx-76292547-d980-404e-99bd-6d1f74db71a8" display="block" class="djs-element djs-shape" data-element-id="76292547-d980-404e-99bd-6d1f74db71a8">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="317" height="60" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="311" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUMAAABCCAYAAADNGLQWAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAr9JREFUeF7t1kuKXEkQBMC+/6VnyEVAEHh+ajSoG8kMYlHunpvmCfQFAAAAAAAf+qcdb/zN4A/jH/Xn/M3gD+Mf9ef8zQDgb9b/J5DuJO3XJbdN6nrW87Lrej6vpK5uSpt1J2lfV3Z52XU9392S8ropbepK6uqStFsHP1L6WOcladdv+qQvPet52XU9n1dSV9elvu4k7evKLi+7rue7W1I+r6SurqSubkqbOviRdh9pz0/dtOt6futLz2a3fJp3v7o5vVtOb0vfpO0u706bXZfylE0vm+W0u72Fb3P7cGefsm7Xz7x3S8p7Nrvl07z7vzY7L2/7Jm13eXfa7LqUp2x62SyvO/hRbh/u7OfvJG1mduuXmd36ssu7TzenXfLybm7mfvbJabPrUp6y6WWz9N1tCz/G7aOd/fydpM3Mbv0ys1tfet6vS/266WWTpHfrupnPzeyT06Z36brUr+tSvy553cGPcftYZz9/J2lzypZTn7Il9UvP+3WpX5e87rr0Zl2X8v479dNp07t5U9qs61K/bueTLXy724c6+/k7SZtb1q/csn7dLu9eNlN/c3v3skubnvXbOW1Sl7Jll3cvm6S/+/Qt/DanjzR1Pet52fUpW3o++5QtPb/1Oy+b5PXdy2636Xnqu9MmdSlbdnn3stn5lbfwW+w+0p6fumnXveSzT9nS81u/87qZXt4tL7vdpuep706bXZfylE0vmyX1r2/h2/SPdHdJ2vWbXrvep6z0bvaz61dSV1dSV3eT3tSVlJXepb6cNrsu5T2bV1JX16W+Dn6s9MHW3aQ365L/0qes2/U9n1dSV1dSt+5FeldXUtbd+uW0+aTrv+eV1NV1qV8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/AW+vv4FUc/bTxdD7twAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1707, 64)" id="gfx-18814da0-377f-4c12-b264-78f67426e6de" display="block" class="djs-element djs-shape" data-element-id="18814da0-377f-4c12-b264-78f67426e6de">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="317" height="60" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="311" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUMAAABCCAYAAADNGLQWAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAmlJREFUeF7t09GKWzEMBND9/59uMUUghGQ7yRa6veeAHu7M+C35AgAAAAAAAAAAAOCf8OtwnW4XV3WbdaHrpgtdtuS8duGTPnenq3ZdNu1yXq/T7eKqbrMOHqX7E9Sruk1c1vVxoeumC1225Lx2Ydfnrtt0/XTZqc+mTc67q7pNXNb1cfAo048/57tustu8+y5Mm5x3/XLTLdMmi83tbjnto6+b78qz3Wb3Dv5Lpz9E13dZdbPp3LybNjnPl035kvPdLtxslrw5vZn678qzmw08xukP0fVdVuXNblfdvJk2Oc+X3eb1u/POpn5XU/9deZY3ux08wunP0PU5y5d1/bqTm+20qXn9XrpsqXn97ryzqd/V1Hd5l4Xc5cu6fh080ulP0PU5y1d1m7jJJ5sur1n9XrpsmfLwbj/ly9TlvLuq26yruk0cPMrpx9/1XbaT9/k6p36ZNl1es/q9dNky5eHdfsqXqct5vc6pr/I+HzzG6Yff9V12I7+b3p76Zdrc5PlC19XrvNJPV01dl3dZ2HU7+d2rb+FH2/3wp27Kb5zenvpl2kz5kru86fLpqtvudNkreZeFXXfyyVv4saYffs533WTqTm9P/TJtpnzJXd7U72rXv9stU/+382zqbt7Cfyf/8Keruk1c6Lp8k082Ux5yH5v6Xe36d7tl6j/Jc1fzfKHr8sGjdH+CuEm3jQtdF7dzs5s2Ux5yX29n2r2aV92uy5YpX7ouZ/VC18UBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/fH39BqZIc7ehfaF2AAAAAElFTkSuQmCC" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 122, 232)" id="gfx-cfb4478d-6024-489e-813c-49d38fb0cc7c" display="block" class="djs-element djs-shape" data-element-id="cfb4478d-6024-489e-813c-49d38fb0cc7c">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAnFJREFUeF7t1+1unTAMANC+/0tvNYonz0sC3Eu7/jhHiog/AhTJ3foB8GV+8ZfxWYB3jZliGJ8FeNeYKYbxWYB3jZk6RJgrtZZT/fzM3Xu+48qzas/nHnjCmKnlEK7yM1d779zzO9T3+dwDTxgDdQzWTNbi2vtqLvc1V+3qs1zK/Opcv/a+ug+zelvAE3LAVqJW67k/y1U9PzsbZucjt+vPuObDLH9xDzxhDNQxWDO9lnFc68rcTM/XOM/n6nquxqt9yLj31JXaHnjCGKhjsGZ6LePZmdV9VvcIqzPp6tlV364ntR7gCWOmLg1eyHjWf+Uese/xTq+vzq76dj2p9QBPGDN1iDBXai3/1Gp/7612fVnr+VBrvT6Le9+VnlDywBPGbP1Y777i3fPHRwHeN2bqx3r1FePcK2fjmwAPGDPFMD4L8IA//8pbxwIA+Pn8rwW+wP/406A+5+4ze//Z+ayv+u4+H7jo7rA+oT7j7vNefb/v+LmAog9dH/zZUNZ8vc56U9ZXfVdrdYV+TTXfV+pxmOWAF8yGq17Dah8i3tXD7MzO7n6r+Cy/qodVD/CGGKi60iofel/V43ClJ0Q+Vzo7O+s9y4WI60q9D3jRarDOhizrvW927m7Pah92ce7PcqHH1a4GXLQaurMBW/XNztVc7K/0pN67i3N/lgs9rnY14KLZINWBzJVWcc93tb7qy55e7/m+r3ZxPRcyzlyvA/+RYQS+hF8uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFsfH78BHynnz684B6sAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 106, 64)" id="gfx-c2e32006-bfdb-46d3-83a2-cc8ef33dcfa8" display="block" class="djs-element djs-shape" data-element-id="c2e32006-bfdb-46d3-83a2-cc8ef33dcfa8">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="317" height="60" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="311" height="54" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUMAAABCCAYAAADNGLQWAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAA0tJREFUeF7t1sGOVEEMQ9H5/58GahHJiuy8VNMIerhHyqJt1+qhEV8AAAAAAAAAAAAAAAAAAAD/qR9yW/rm1SuuqysuU1OvXb9XbN/rrl+y3f5Or10/53ajUn5op9e5zbnObeqKy1TqNe+Hb+L247r9q1dcV1dcpqZeO3e3tm91169zG71u6o6p185d99Qfqd/k/ZTr6zq3qSsuU6nX3B2+Af2YTx+2+rRLWdqXd2ymPnUpn9y82W5117e3eZn61G1y1x+pc7nLyiu7Mu3L0yb1tzk+kH7Ipw/71DubN+/YTH3qUj65ebPdTrvUpbxMfeo2uZ66yV3mbHdls3/apP42x4fpH7L/VlM32bx7x2bqU5fyyc2bzfbVjcvU1Kduk+upm1wzzbvtrmy2T5vU3+b4MP1D9t9q6iabd7rRUykvU+86lz25fbPZv7pxmZp617ms9K7/Plx2uFwzvc5tziVue06lvKTe5S7DB0of8jZ/snmnGz2V8jL12rnbun2j+37FZZ3buExNvXbuOtf1rP8um7yfcn1d5zbnVMpL6jV3hw+WPuRt/mTz7h2bqdeu343bd7rvV1zWuY3L1NRr189xfc/675Lyor1e5zbnVMrV0yb1mvfDh3MftZ9K+ZPNu3dspt51Lpvc7o/Nm1c3LlNT7zqXldRprqdS3ulu2k67lKunTepd7jJ8GP2IT1dS/mTz5h2bqXedyya3+2P7ZtqlLuVl6l3nsrLt3CblznabdilXT5vUu9xl+DBPHzH1mvfuSFnal83mSLuUl9Sn3LnZlu2bafdKl/KS+tv80M5tXN43pW+3u5LyLu1SfqQu5fgQTx9w6rVz101d0U0/5fp+Tuo1753abJybd7p157hdPyf1mmvnMqV937hcM3fFdXqd29Qp1/frUqd57/CP2364aaddv27qim76OdtdmXZTVzYb5/ad7v/ku2nnOpcp7fvG5Zr1U66vc9yuztnujmkzdcC3wj92AP89/hACwC/8MQQAAN+X/k+H2x0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAv+rr6yfno0cA3l+eSgAAAABJRU5ErkJggg==" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 476, 232)" id="gfx-e3a10149-c9bc-46ad-9a14-2dd6c15a48af" display="block" class="djs-element djs-shape" data-element-id="e3a10149-c9bc-46ad-9a14-2dd6c15a48af">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAnxJREFUeF7t1AFu4yAQBdDe/9K7xp2pJhQSN9toiXhPQobPEMsB8QHwMn9eKF4B7CjugZeIVwA7invgJeIVwI7iHrjR4tqqq3MxBnZ13gKdPq7j2dzop44M2FXcAzf6uI5nc6OfOjJgV3EP3OjjOm792qrBGNhV3AM3Wlxb9ZPx0Qc2dl4IraVZv3k0bjI7nsCuzlug08d1fG8uZXY8gV2dt0BnFGfWnrWlSQbsKu6Bl4hXADuKe+Al4hXAjuIeeIl4BbCjuAd4U7GNsJ44o7yp2EZYT5xR3lRsI6wnzujQg+m3NPumZ7/1p+t++z89fg/WFGf0m5y6U/KWZt/z7Hf+7//neD+sKc7oNzlVS/ryWpMt9XNVZjW/UjeqaUb5aE32a9Y8yqu+rj6z3zzKU87XulFNqnXN0Yc1xRn9JqdqSV8+Wl7XjdbeW9P8Zn80V7Oqz6+ubdmsdpan2m9GNc29tccT1nSe0E4f13H2RzXZclzN8ibXZUtX+7Wl2m9y3OdpVF9bZr0+m9WO8mfW1hYZLOvmsDY1G83VZ/NovpnlzShran6lX/V5jn9aX13Jcnwl/5e16chgTXFGvwyiU+b9sxn1a9bM8maUNTW/0q/6PMc/ra+uZDm+kvf9Wc0oT0cGa4oz+mUQnWo+qmlZthxXddzXNrMszfpNrntUk/ra1Oc5vpfVueaZfDT3KC9zsKbzhLKEZ7bjcxdhQXFGWcAz2/G5i7CgOKO8qdhGWE+cUd5UbCMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbOvj4y+3JXoC3BhIRQAAAABJRU5ErkJggg==" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1399, 232)" id="gfx-75582c70-a547-44e5-984e-84b3af75e4e6" display="block" class="djs-element djs-shape" data-element-id="75582c70-a547-44e5-984e-84b3af75e4e6">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAclJREFUeF7t0wtqwzAQBcDc/9Itgi4si352nMRtZ0BY0lvJTpAeAAAAAADwTl8/z5FVflbdt41jbvTOV30L3FZcjNyuNtpz9q4rvuMde+y84+zvvOL74WPecYB779h577PfdsVvW+3xzDve8R/Ax+we8GihN9fEOOe5hdxvdmqq1R6rPOT6nMW4Nx/Pmscz1Dzbqe2tg19hdXh3Dne9DHXN0XG2m7X+0XFYZdUsr9modraummVwW+3g1hZyf2a1ps6txtlu1qub5Wez5uza3ayaZXBbZw91y3ILvTV1blSzszbL2Wpt69cWcr+ZZc2RtbWF3A+1JvTm4PZmB3eU1fk87q2Z1Vdna3t1qzzU7Jl9V2vDkWxWC7e1OuS9fHb4j9ZXZ2tb/8g4q/N1XTXLa9Zb34zmm9me8GvEBcgtG2Wz+arW5X5T89Cby0b1MT/Lc9arC6v63G9649zCaJznmt4cMLFzYf76pfIfwIvMLs5/uVT+AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPi0x+MbHA8Y9qTnpWgAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1743.73, 232)" id="gfx-2ba3ad48-1e4c-4df3-bd79-21142d20d9c8" display="block" class="djs-element djs-shape" data-element-id="2ba3ad48-1e4c-4df3-bd79-21142d20d9c8">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAu5JREFUeF7t2FmK40AMANC+/6VnIlMCIaq8JO4174GJtVXcBuWjPwAAfpd/3Gq8VmDsBDcZrxUYO8FNxmsFxk7sOtm2FPNXznj1++7w7DM85oAwdmITYb1Sa7vkmdlXvu+r9Wd9xEAYOzFbknH32rI/M/vK9321yXsDwliIbTFWsh6fq96s1XrN1XzXe2pvr63U2Vl/r9f7mkuzuPfVXOYfn0DIJdkT9drT+/fqvbebzWY8q63Mel+N01GtesRAGAuxLcZKr1+Jr54dMrd3brd3Tjhz1qp/b3ZSA8JYiG0xVnp9Fvcr1fuZWT1zeVa9Vma1muv1K/1x369U78MjBsJYiG0xVnr9KK6unh0ydzRb7Z0Tev1K/6w3Tc4FwtiJ2ZKMu/1aiLjn0iqf+myNe21P753F1ZX+Xqt6/hEDYezEJsK8qqM41Nlan/V2fa7P9/pM1la9s9nae9S/6u25xycQto34A+7+U549b3upgB+XlWfP214q4Meli3NeOSveKfAwdoKbjNcKAAAAAPBWPvOfo2fPvrsP3k4sR7++W32GV5/njr9ndcZPeFfwY80W5LuXpn7/q89yx9/y3e8DfqXZ4vRcxHl1vVY/a35P760zfb73Vr1W45qrn1XN1b56pVku7dXgbfQF6Esxi1O9T7P+WV+62l/1uZmeX82c7QsRr+q9F95WLkpeXc/V+Ex/mOXS1f4q+66cX+PVfThbC3u98Lb6YswWp19Vz/V6mOXSM/31Ckf9VY1X9+Go1q9qloO3M1uM6uySZN+sf++MK/09n/GV82fxbL7mjs5YOdsHf9KZxTqzJNnT+4/mr/T3fMbPzKTVbM2dnenO9MCfNVuAvjwZ7+VT3s9qK713b6b21r4z+VBrodaqmsueVW6VB25kqYBP4ccF+BR+XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4Qh8f/wHBhpp/v3kqmAAAAABJRU5ErkJggg==" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 123, 379)" id="gfx-1e39b9d2-420e-40aa-8ed0-c272d827c650" display="block" class="djs-element djs-shape" data-element-id="1e39b9d2-420e-40aa-8ed0-c272d827c650">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAnFJREFUeF7t1+1unTAMANC+/0tvNYonz0sC3Eu7/jhHiog/AhTJ3foB8GV+8ZfxWYB3jZliGJ8FeNeYKYbxWYB3jZk6RJgrtZZT/fzM3Xu+48qzas/nHnjCmKnlEK7yM1d779zzO9T3+dwDTxgDdQzWTNbi2vtqLvc1V+3qs1zK/Opcv/a+ug+zelvAE3LAVqJW67k/y1U9PzsbZucjt+vPuObDLH9xDzxhDNQxWDO9lnFc68rcTM/XOM/n6nquxqt9yLj31JXaHnjCGKhjsGZ6LePZmdV9VvcIqzPp6tlV364ntR7gCWOmLg1eyHjWf+Uese/xTq+vzq76dj2p9QBPGDN1iDBXai3/1Gp/7612fVnr+VBrvT6Le9+VnlDywBPGbP1Y777i3fPHRwHeN2bqx3r1FePcK2fjmwAPGDPFMD4L8IA//8pbxwIA+Pn8rwW+wP/406A+5+4ze//Z+ayv+u4+H7jo7rA+oT7j7vNefb/v+LmAog9dH/zZUNZ8vc56U9ZXfVdrdYV+TTXfV+pxmOWAF8yGq17Dah8i3tXD7MzO7n6r+Cy/qodVD/CGGKi60iofel/V43ClJ0Q+Vzo7O+s9y4WI60q9D3jRarDOhizrvW927m7Pah92ce7PcqHH1a4GXLQaurMBW/XNztVc7K/0pN67i3N/lgs9rnY14KLZINWBzJVWcc93tb7qy55e7/m+r3ZxPRcyzlyvA/+RYQS+hF8uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFsfH78BHynnz684B6sAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 477, 379)" id="gfx-eeff00e3-d710-4282-bba7-0a36180b6141" display="block" class="djs-element djs-shape" data-element-id="eeff00e3-d710-4282-bba7-0a36180b6141">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAjBJREFUeF7t0gtqJDEMBcDc/9K7o6wFQit1evKBhFSBsSU/D02iF4Av8wfe6YwQzM6cwNPOCMHszAk87YwQzM6crKbIjWffzld+82f/9k/5+z6+E3ZnTlYR6bEbz76dn/TNP+VbH98JuzMnq4zUaH8Wda60Zaq3MllPuepuJvd+F6b+Va/2p3PPhKmX8q5net31N1t+ylW1rrlU35Uz7F6n5EJGanQ7hykfot6yYTunq/us+15Fr/bfOtde6r0pG+de133S76Y32/stc/U26qlX99DPQw27MyurGsnz1EtTJvT+dF9X2nrV1V16601dqZ7DVt990+/S9ib2uia1f+ccsu57iHNdqZ7DuYdL/w1SVft5nnppyoTe3+6r2tvO4eouvedNuMplfSeTeh22zJTtaubOOWTd99CzafqNx4LdmZVVj0Rde9N93UN9M92HXofauzpn3feq92o95dNVLus7mdTr0N9nPWW7/jZt55B130PPpuk3Hgt2Z1ZWU6T3os5V1V6967mU+Z7tvVB7232VmSkb+t3dXNjOIev+pqv3NZf92qt6NvV8/sbU76bs9O6xYHdmhV/qIyPwb4JgceaEXyb+9R/9978OEGzOnMDTzgjB7MwJPO2MEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwenn5Cxm+2r1dLOxNAAAAAElFTkSuQmCC" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1398, 379)" id="gfx-91e30b8e-e56f-4a79-81c1-2c48feec98ec" display="block" class="djs-element djs-shape" data-element-id="91e30b8e-e56f-4a79-81c1-2c48feec98ec">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAclJREFUeF7t0wtqwzAQBcDc/9Itgi4si352nMRtZ0BY0lvJTpAeAAAAAADwTl8/z5FVflbdt41jbvTOV30L3FZcjNyuNtpz9q4rvuMde+y84+zvvOL74WPecYB779h577PfdsVvW+3xzDve8R/Ax+we8GihN9fEOOe5hdxvdmqq1R6rPOT6nMW4Nx/Pmscz1Dzbqe2tg19hdXh3Dne9DHXN0XG2m7X+0XFYZdUsr9modraummVwW+3g1hZyf2a1ps6txtlu1qub5Wez5uza3ayaZXBbZw91y3ILvTV1blSzszbL2Wpt69cWcr+ZZc2RtbWF3A+1JvTm4PZmB3eU1fk87q2Z1Vdna3t1qzzU7Jl9V2vDkWxWC7e1OuS9fHb4j9ZXZ2tb/8g4q/N1XTXLa9Zb34zmm9me8GvEBcgtG2Wz+arW5X5T89Cby0b1MT/Lc9arC6v63G9649zCaJznmt4cMLFzYf76pfIfwIvMLs5/uVT+AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPi0x+MbHA8Y9qTnpWgAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1741, 379)" id="gfx-7dc32fa7-c0c4-4d97-83f6-b09224a1faac" display="block" class="djs-element djs-shape" data-element-id="7dc32fa7-c0c4-4d97-83f6-b09224a1faac">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAu5JREFUeF7t2FmK40AMANC+/6VnIlMCIaq8JO4174GJtVXcBuWjPwAAfpd/3Gq8VmDsBDcZrxUYO8FNxmsFxk7sOtm2FPNXznj1++7w7DM85oAwdmITYb1Sa7vkmdlXvu+r9Wd9xEAYOzFbknH32rI/M/vK9321yXsDwliIbTFWsh6fq96s1XrN1XzXe2pvr63U2Vl/r9f7mkuzuPfVXOYfn0DIJdkT9drT+/fqvbebzWY8q63Mel+N01GtesRAGAuxLcZKr1+Jr54dMrd3brd3Tjhz1qp/b3ZSA8JYiG0xVnp9Fvcr1fuZWT1zeVa9Vma1muv1K/1x369U78MjBsJYiG0xVnr9KK6unh0ydzRb7Z0Tev1K/6w3Tc4FwtiJ2ZKMu/1aiLjn0iqf+myNe21P753F1ZX+Xqt6/hEDYezEJsK8qqM41Nlan/V2fa7P9/pM1la9s9nae9S/6u25xycQto34A+7+U549b3upgB+XlWfP214q4Meli3NeOSveKfAwdoKbjNcKAAAAAPBWPvOfo2fPvrsP3k4sR7++W32GV5/njr9ndcZPeFfwY80W5LuXpn7/q89yx9/y3e8DfqXZ4vRcxHl1vVY/a35P760zfb73Vr1W45qrn1XN1b56pVku7dXgbfQF6Esxi1O9T7P+WV+62l/1uZmeX82c7QsRr+q9F95WLkpeXc/V+Ex/mOXS1f4q+66cX+PVfThbC3u98Lb6YswWp19Vz/V6mOXSM/31Ckf9VY1X9+Go1q9qloO3M1uM6uySZN+sf++MK/09n/GV82fxbL7mjs5YOdsHf9KZxTqzJNnT+4/mr/T3fMbPzKTVbM2dnenO9MCfNVuAvjwZ7+VT3s9qK713b6b21r4z+VBrodaqmsueVW6VB25kqYBP4ccF+BR+XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4Qh8f/wHBhpp/v3kqmAAAAABJRU5ErkJggg==" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1401, 543)" id="gfx-0dcf378c-f7e3-4c1a-80f3-f672208f56bb" display="block" class="djs-element djs-shape" data-element-id="0dcf378c-f7e3-4c1a-80f3-f672208f56bb">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAclJREFUeF7t0wtqwzAQBcDc/9Itgi4si352nMRtZ0BY0lvJTpAeAAAAAADwTl8/z5FVflbdt41jbvTOV30L3FZcjNyuNtpz9q4rvuMde+y84+zvvOL74WPecYB779h577PfdsVvW+3xzDve8R/Ax+we8GihN9fEOOe5hdxvdmqq1R6rPOT6nMW4Nx/Pmscz1Dzbqe2tg19hdXh3Dne9DHXN0XG2m7X+0XFYZdUsr9modraummVwW+3g1hZyf2a1ps6txtlu1qub5Wez5uza3ayaZXBbZw91y3ILvTV1blSzszbL2Wpt69cWcr+ZZc2RtbWF3A+1JvTm4PZmB3eU1fk87q2Z1Vdna3t1qzzU7Jl9V2vDkWxWC7e1OuS9fHb4j9ZXZ2tb/8g4q/N1XTXLa9Zb34zmm9me8GvEBcgtG2Wz+arW5X5T89Cby0b1MT/Lc9arC6v63G9649zCaJznmt4cMLFzYf76pfIfwIvMLs5/uVT+AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPi0x+MbHA8Y9qTnpWgAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1743, 543)" id="gfx-dd4293b9-7fa7-49ee-bd18-e0d7c493ee44" display="block" class="djs-element djs-shape" data-element-id="dd4293b9-7fa7-49ee-bd18-e0d7c493ee44">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAu5JREFUeF7t2FmK40AMANC+/6VnIlMCIaq8JO4174GJtVXcBuWjPwAAfpd/3Gq8VmDsBDcZrxUYO8FNxmsFxk7sOtm2FPNXznj1++7w7DM85oAwdmITYb1Sa7vkmdlXvu+r9Wd9xEAYOzFbknH32rI/M/vK9321yXsDwliIbTFWsh6fq96s1XrN1XzXe2pvr63U2Vl/r9f7mkuzuPfVXOYfn0DIJdkT9drT+/fqvbebzWY8q63Mel+N01GtesRAGAuxLcZKr1+Jr54dMrd3brd3Tjhz1qp/b3ZSA8JYiG0xVnp9Fvcr1fuZWT1zeVa9Vma1muv1K/1x369U78MjBsJYiG0xVnr9KK6unh0ydzRb7Z0Tev1K/6w3Tc4FwtiJ2ZKMu/1aiLjn0iqf+myNe21P753F1ZX+Xqt6/hEDYezEJsK8qqM41Nlan/V2fa7P9/pM1la9s9nae9S/6u25xycQto34A+7+U549b3upgB+XlWfP214q4Meli3NeOSveKfAwdoKbjNcKAAAAAPBWPvOfo2fPvrsP3k4sR7++W32GV5/njr9ndcZPeFfwY80W5LuXpn7/q89yx9/y3e8DfqXZ4vRcxHl1vVY/a35P760zfb73Vr1W45qrn1XN1b56pVku7dXgbfQF6Esxi1O9T7P+WV+62l/1uZmeX82c7QsRr+q9F95WLkpeXc/V+Ex/mOXS1f4q+66cX+PVfThbC3u98Lb6YswWp19Vz/V6mOXSM/31Ckf9VY1X9+Go1q9qloO3M1uM6uySZN+sf++MK/09n/GV82fxbL7mjs5YOdsHf9KZxTqzJNnT+4/mr/T3fMbPzKTVbM2dnenO9MCfNVuAvjwZ7+VT3s9qK713b6b21r4z+VBrodaqmsueVW6VB25kqYBP4ccF+BR+XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4Qh8f/wHBhpp/v3kqmAAAAABJRU5ErkJggg==" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 480, 543)" id="gfx-26dafb40-df7c-4f2e-a8a6-adcf77d957ac" display="block" class="djs-element djs-shape" data-element-id="26dafb40-df7c-4f2e-a8a6-adcf77d957ac">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAABCpJREFUeF7t1AGO4zgMRNG+/6VnzSwJFGpI2Ukngwj+DxAsUiU7aMv9AwAf8wd4UR4hoJfnBHhaHiGgl+cEeFoeIaCX52TURS5s+zqf/M3vvvcuf9/jdwKzPCejiHjswravs9Nv3uW3Hr8TmOU5GVVEo74t6hplyqizTNVdTl3N1NXXQtdf9bTfzT0Tul6pNc947XzPlO9ySmvNFd0nc2D2OCULFdHoNA9dPkQ9ZcM0L6v1qv2qoqf9s7n2ive6bMy91mvH17o90/4ps9obddfTa/B5UwOzPCsjjdS865UuE7zfresoU0+t1srZHh1F52Gqr+7xtTLtiauOjvavzEPVfg0x11F0HnIdWPrrICnt17zrlS4TvD+tK+1N87BaK6/sCatc1VcyxeswZbqs08yVeajar8GzpbvHMYBZnpWRR6LWXreu16B7uvXgddDeal61X5X3tO7yZZWr+kqmeB18f9Vd1vneMs1D1X4Nni3dPY4BzPKsjLqI96KuobSna54rlfes94L2pnVVmS4bfO1qLkzzULXvcbquueprT3m2eL7u0fVdl+32HQOY5VnBTf3mCPx/goBBnhPcTLz6377+xwECJnlOgKflEQJ6eU6Ap+URAnp5TrCJfG3A98szi03kawO+X57Z0Spytv2368969/2u6J4ZvRrvdtwT2EOe2VFEutjUVxdu/1b/+nnBn/np33DcH9hDntlRRLqY96uuntba666hcl1vRfdVVufB10vVetWhpp7yutTeKe9rVWuvHD1gD3lmRxXRaNdT03rU2ptyocs570d9ts/Xq/as58o0D153fP/qfsF7Rw3sIc/sqCIa7Xoh6hpVq6n2foiejo73V3Xdx3tF58HXdFTPdb3i+4Pnfc3z4aiBbbSHuGjfc2dz7YWp9n7oeu6V+1+Zh9VauNoL0708X/VJBthDntmRRmLudenm2gtT7f3Q9dwr9786n9ZK1wtn2dV9qz7JAHvIMztaRXwt6hpFa+2HLnfWc5rxnNZdpstXb1rTzKTLnfW0HxZ9YA95ZmFWf5p3/dleuU+8M2ALeWZvL/4UOv6FV55z7AH2kGcWm8jXBny/PLPYRL424Pvlmf24fByAu8hv/+PycQDuIr/9UUR0qKtrWQO4k8eXv+ARrae17rZHD8Cd5Lc/8ojW01p326MH4E7y2x95ROuY61BNDeBO8tsfRUSHeqY+5gBu5vFPIEZH+545q0P1jiuAO3l8+Qse0Xq1Vqp3XAHcyePLX+gi1YurjjL0ANxJfvsfl48DcBf57X9cPg7AXeS3/3H5OAB3kd/+x+XjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzn5+c/QEOLehmq92kAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 126, 543)" id="gfx-8e006e75-ad94-4f92-acbd-0689bf3ccada" display="block" class="djs-element djs-shape" data-element-id="8e006e75-ad94-4f92-acbd-0689bf3ccada">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="273" height="86" stroke-width="1px" shape-rendering="crispEdges" class="" style="fill:white;stroke:#969696;" />
+      </g>
+      <image preserveAspectRatio="none" x="3" y="3" width="267" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAABcCAYAAABEO/HPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAuIgAALiIBquLdkgAAAnFJREFUeF7t1+1unTAMANC+/0tvNYonz0sC3Eu7/jhHiog/AhTJ3foB8GV+8ZfxWYB3jZliGJ8FeNeYKYbxWYB3jZk6RJgrtZZT/fzM3Xu+48qzas/nHnjCmKnlEK7yM1d779zzO9T3+dwDTxgDdQzWTNbi2vtqLvc1V+3qs1zK/Opcv/a+ug+zelvAE3LAVqJW67k/y1U9PzsbZucjt+vPuObDLH9xDzxhDNQxWDO9lnFc68rcTM/XOM/n6nquxqt9yLj31JXaHnjCGKhjsGZ6LePZmdV9VvcIqzPp6tlV364ntR7gCWOmLg1eyHjWf+Uese/xTq+vzq76dj2p9QBPGDN1iDBXai3/1Gp/7612fVnr+VBrvT6Le9+VnlDywBPGbP1Y777i3fPHRwHeN2bqx3r1FePcK2fjmwAPGDPFMD4L8IA//8pbxwIA+Pn8rwW+wP/406A+5+4ze//Z+ayv+u4+H7jo7rA+oT7j7vNefb/v+LmAog9dH/zZUNZ8vc56U9ZXfVdrdYV+TTXfV+pxmOWAF8yGq17Dah8i3tXD7MzO7n6r+Cy/qodVD/CGGKi60iofel/V43ClJ0Q+Vzo7O+s9y4WI60q9D3jRarDOhizrvW927m7Pah92ce7PcqHH1a4GXLQaurMBW/XNztVc7K/0pN67i3N/lgs9rnY14KLZINWBzJVWcc93tb7qy55e7/m+r3ZxPRcyzlyvA/+RYQS+hF8uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFsfH78BHynnz684B6sAAAAASUVORK5CYII=" class="djs-html-text" />
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-8ef6f831-ca52-488d-a89e-5bcbcf638ab1" display="block" class="djs-element djs-connection" data-element-id="8ef6f831-ca52-488d-a89e-5bcbcf638ab1">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlow8ef6f831-ca52-488d-a89e-5bcbcf638ab1#1">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1073 170 L1073 245" marker-end="url(#arrowSecuenceFlow8ef6f831-ca52-488d-a89e-5bcbcf638ab1)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-d49970d2-4a15-482d-9bd3-b44951be2c48" display="block" class="djs-element djs-connection" data-element-id="d49970d2-4a15-482d-9bd3-b44951be2c48">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlowd49970d2-4a15-482d-9bd3-b44951be2c48">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1073 305 L1073 392" marker-end="url(#arrowSecuenceFlowd49970d2-4a15-482d-9bd3-b44951be2c48)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-21870a4d-a9e9-439f-b860-2b652a1c7610" display="block" class="djs-element djs-connection" data-element-id="21870a4d-a9e9-439f-b860-2b652a1c7610">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlow21870a4d-a9e9-439f-b860-2b652a1c7610">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1093 714 L1220 714" marker-end="url(#arrowSecuenceFlow21870a4d-a9e9-439f-b860-2b652a1c7610)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1095, 675)" id="gfx-d190bb0b-9431-4f49-8558-b255b5c3d77f" display="block" class="djs-element djs-shape" data-element-id="d190bb0b-9431-4f49-8558-b255b5c3d77f">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="119" height="48" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="119" height="43" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="26.22181" y="14.75">Non OU Seuil </tspan>
+            <tspan x="34.30865" y="27.75">acceptable</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-4657da04-e1dc-4ece-9a0f-d3e2c9688faa" display="block" class="djs-element djs-connection" data-element-id="4657da04-e1dc-4ece-9a0f-d3e2c9688faa">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlow4657da04-e1dc-4ece-9a0f-d3e2c9688faa">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1073 452 L1073 561" marker-end="url(#arrowSecuenceFlow4657da04-e1dc-4ece-9a0f-d3e2c9688faa)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-494da0a3-ddd8-4b04-98b8-0358a3fa816b" display="block" class="djs-element djs-connection" data-element-id="494da0a3-ddd8-4b04-98b8-0358a3fa816b">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlow494da0a3-ddd8-4b04-98b8-0358a3fa816b">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1073 734 L1073 809" marker-end="url(#arrowSecuenceFlow494da0a3-ddd8-4b04-98b8-0358a3fa816b)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1062, 722)" id="gfx-4deaa497-84fc-4a23-b932-21a290910d0e" display="block" class="djs-element djs-shape" data-element-id="4deaa497-84fc-4a23-b932-21a290910d0e">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="30" height="90" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="30" height="90" class="djs-svg-text">
+          <text transform="matrix(6.12323E-17, 1, -1, 6.12323E-17, 30, 0)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="90" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="36.70573" y="9.75">Oui</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-950ce562-b992-4aba-8481-2c194283e13e" display="block" class="djs-element djs-connection" data-element-id="950ce562-b992-4aba-8481-2c194283e13e">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlow950ce562-b992-4aba-8481-2c194283e13e">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1073 888 L1073 969" marker-end="url(#arrowSecuenceFlow950ce562-b992-4aba-8481-2c194283e13e)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-bcb96045-499d-4119-8806-e36bf024c91a" display="block" class="djs-element djs-connection" data-element-id="bcb96045-499d-4119-8806-e36bf024c91a">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="9.8" refY="6" orient="auto" markerWidth="12" markerHeight="12" markerUnits="strokeWidth" id="arrowSecuenceFlowbcb96045-499d-4119-8806-e36bf024c91a">
+              <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
+            </marker>
+          </defs>
+          <path d="M1073 621 L1073 694" marker-end="url(#arrowSecuenceFlowbcb96045-499d-4119-8806-e36bf024c91a)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-b5f86557-e0b8-4bab-b4ff-bece27be0946" display="block" class="djs-element djs-connection" data-element-id="b5f86557-e0b8-4bab-b4ff-bece27be0946">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociationb5f86557-e0b8-4bab-b4ff-bece27be0946">
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="stroke:black;" />
+            </marker>
+          </defs>
+          <path d="M786 62 L786 2073 L785 2073" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-8eeb9018-5f45-4a18-bb74-f1da22c65d68" display="block" class="djs-element djs-connection" data-element-id="8eeb9018-5f45-4a18-bb74-f1da22c65d68">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociation8eeb9018-5f45-4a18-bb74-f1da22c65d68">
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="stroke:black;" />
+            </marker>
+          </defs>
+          <path d="M436 71 L437 71 L437 2058 L431 2058" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-31d7a4cb-44ba-4f71-845f-53ca9f1cf209" display="block" class="djs-element djs-connection" data-element-id="31d7a4cb-44ba-4f71-845f-53ca9f1cf209">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociation31d7a4cb-44ba-4f71-845f-53ca9f1cf209">
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="stroke:black;" />
+            </marker>
+          </defs>
+          <path d="M1698 64 L1701 64 L1701 2055 L1703 2055" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-be98c1c7-fe7b-4d07-851d-d0bd766e7274" display="block" class="djs-element djs-connection" data-element-id="be98c1c7-fe7b-4d07-851d-d0bd766e7274">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociationbe98c1c7-fe7b-4d07-851d-d0bd766e7274">
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="stroke:black;" />
+            </marker>
+          </defs>
+          <path d="M1348 68 L1347 68 L1347 2064 L1343 2064" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(90, 46)" class="djs-group" xmlns="http://www.w3.org/2000/svg">
+    <image x="1740" y="2043" width="190" height="60" xlink:href="data:image/png;base64,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" opacity="0.4" />
+  </g>
+</svg>
