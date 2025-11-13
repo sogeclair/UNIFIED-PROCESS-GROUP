@@ -16,66 +16,55 @@
       <div class="flex flex-col items-center gap-8">
         <!-- Home -->
         <button onclick="filterBy('all')" class="group" title="Tous les processus">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l9-9 9 9M4 10v10a1 1 0 001 1h3a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1h3a1 1 0 001-1V10"/>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+            <path d="M320 32L18 288C10.7 294.1 9.4 305.1 15.5 312.5C21.6 319.9 32.6 321.3 40 315.2L96 266.7V544C96 570.5 117.5 592 144 592H256V400H384V592H496C522.5 592 544 570.5 544 544V266.7L600 315.2C607.4 321.3 618.4 319.9 624.5 312.5C630.6 305.1 629.3 294.1 622 288L320 32z"/>
           </svg>
         </button>
         <!-- Catégories -->
          <button onclick="filterBy('Achats')" class="group" title="Achats">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <rect x="4" y="4" width="16" height="16" rx="2"/>
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9 9h6M9 15h6"/>
-          </svg>
+           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+          <path d="M24 48C10.7 48 0 58.7 0 72C0 85.3 10.7 96 24 96L69.3 96C73.2 96 76.5 98.8 77.2 102.6L129.3 388.9C135.5 423.1 165.3 448 200.1 448L456 448C469.3 448 480 437.3 480 424C480 410.7 469.3 400 456 400L200.1 400C188.5 400 178.6 391.7 176.5 380.3L171.4 352L475 352C505.8 352 532.2 330.1 537.9 299.8L568.9 133.9C572.6 114.2 557.5 96 537.4 96L124.7 96L124.3 94C119.5 67.4 96.3 48 69.2 48L24 48zM208 576C234.5 576 256 554.5 256 528C256 501.5 234.5 480 208 480C181.5 480 160 501.5 160 528C160 554.5 181.5 576 208 576zM432 576C458.5 576 480 554.5 480 528C480 501.5 458.5 480 432 480C405.5 480 384 501.5 384 528C384 554.5 405.5 576 432 576z"/>
+        </svg>
         </button>
         <button onclick="filterBy('Communication')" class="group" title="Communication">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" 
-            class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M8.625 12a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375M21 12c0 4.556-4.03 8.25-9 8.25a9.764 9.764 0 0 1-2.555-.337A5.972 5.972 0 0 1 5.41 20.97a5.969 5.969 0 0 1-.474-.065 4.48 4.48 0 0 0 .978-2.025c.09-.457-.133-.901-.467-1.226C3.93 16.178 3 14.189 3 12c0-4.556 4.03-8.25 9-8.25s9 3.694 9 8.25Z" />
-          </svg>
-          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+          <path d="M208 96C93.1 96 0 176.3 0 272c0 54.5 29.7 103.7 78.3 137.7-3.5 27.5-12.2 59.7-23.7 83.4-2.9 5.9 2.3 12.4 8.6 11.5 39.3-5.6 70.8-17.1 98.8-31.2 14.8 3.1 30.3 4.7 46.1 4.7 114.9 0 208-80.3 208-176S322.9 96 208 96zM512 160c-11.6 0-23 1-34.1 2.9 19.5 27.2 30.1 58.7 30.1 91.1 0 97.2-87.2 177.5-198.4 190.8 45.9 40.4 111.4 65.2 184.4 65.2 15.8 0 31.3-1.6 46.1-4.7 27.9 14.1 59.5 25.6 98.8 31.2 6.3.9 11.5-5.6 8.6-11.5-11.5-23.7-20.2-55.9-23.7-83.4C610.3 439.7 640 390.5 640 336c0-95.7-93.1-176-208-176z"/>
+        </svg>
         </button>
         <button onclick="filterBy('Industry')" class="group" title="Industry">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <rect x="3" y="13" width="18" height="8" rx="2"/>
-            <rect x="7" y="9" width="4" height="4"/>
-            <rect x="13" y="5" width="4" height="8"/>
-          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+          <path d="M96 96C78.3 96 64 110.3 64 128L64 496C64 522.5 85.5 544 112 544L528 544C554.5 544 576 522.5 576 496L576 216.2C576 198 556.6 186.5 540.6 195.1L384 279.4L384 216.2C384 198 364.6 186.5 348.6 195.1L192 279.4L192 128C192 110.3 177.7 96 160 96L96 96z"/>
+        </svg>
         </button>
         <button onclick="filterBy('Legal')" class="group" title="Legal">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <rect x="5" y="4" width="14" height="16" rx="2"/>
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9 8h6M9 12h6M9 16h2"/>
+           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+            <path d="M6 2a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V8l-6-6H6Zm7 1.5L18.5 9H13V3.5ZM8 13h8a1 1 0 1 1 0 2H8a1 1 0 0 1 0-2Zm0 3h5a1 1 0 1 1 0 2H8a1 1 0 1 1 0-2Zm0-6h8a1 1 0 1 1 0 2H8a1 1 0 1 1 0-2Z"/>
           </svg>
         </button>
         <button onclick="filterBy('Logistique')" class="group" title="Logistique">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <rect x="3" y="7" width="18" height="13" rx="2"/>
-            <path stroke-linecap="round" stroke-linejoin="round" d="M16 3v4M8 3v4"/>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+            <path d="M32 160C32 124.7 60.7 96 96 96L384 96C419.3 96 448 124.7 448 160L448 192L498.7 192C515.7 192 532 198.7 544 210.7L589.3 256C601.3 268 608 284.3 608 301.3L608 448C608 483.3 579.3 512 544 512L540.7 512C530.3 548.9 496.3 576 456 576C415.7 576 381.8 548.9 371.3 512L268.7 512C258.3 548.9 224.3 576 184 576C143.7 576 109.8 548.9 99.3 512L96 512C60.7 512 32 483.3 32 448L32 160zM544 352L544 301.3L498.7 256L448 256L448 352L544 352zM224 488C224 465.9 206.1 448 184 448C161.9 448 144 465.9 144 488C144 510.1 161.9 528 184 528C206.1 528 224 510.1 224 488zM456 528C478.1 528 496 510.1 496 488C496 465.9 478.1 448 456 448C433.9 448 416 465.9 416 488C416 510.1 433.9 528 456 528z"/>
           </svg>
         </button>
         <button onclick="filterBy('Quality')" class="group" title="Quality">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <circle cx="12" cy="12" r="10"/>
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4"/>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+            <path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2Zm4.3 8.3-4.89 4.88a1 1 0 0 1-1.41 0l-2.3-2.29a1 1 0 0 1 1.41-1.41l1.59 1.59 4.18-4.17a1 1 0 0 1 1.42 1.4Z"/>
           </svg>
         </button>
         <button onclick="filterBy('Finance')" class="group" title="Finance">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <rect x="3" y="5" width="18" height="14" rx="2"/>
-            <path stroke-linecap="round" stroke-linejoin="round" d="M16 3v4M8 3v4"/>
-          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+          <path d="M3 3a1 1 0 0 0-1 1v16h20a1 1 0 1 0 0-2H4V4a1 1 0 0 0-1-1Zm16.293 4.293-4.586 4.586-2.293-2.293a1 1 0 0 0-1.414 0l-3.5 3.5a1 1 0 0 0 1.414 1.414l2.793-2.793 2.293 2.293a1 1 0 0 0 1.414 0l5.293-5.293a1 1 0 0 0-1.414-1.414Z"/>
+        </svg>
         </button>
         <button onclick="filterBy('IT')" class="group" title="IT">
-          <svg class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <rect x="3" y="7" width="18" height="13" rx="2"/>
-            <circle cx="12" cy="12" r="2"/>
-          </svg>
+           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+          <path d="M4 5a2 2 0 0 0-2 2v9h20V7a2 2 0 0 0-2-2H4Zm18 12H2a1 1 0 0 0 0 2h20a1 1 0 1 0 0-2Z"/>
+        </svg>
         </button>
         <button onclick="filterBy('General')" class="group" title="General Means">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" 
-               class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m0-10.036A11.959 11.959 0 0 1 3.598 6 11.99 11.99 0 0 0 3 9.75c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.57-.598-3.75h-.152c-3.196 0-6.1-1.25-8.25-3.286Zm0 13.036h.008v.008H12v-.008Z" />
-          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 h-8 text-gray-400 group-hover:text-cyan-500 transition" fill="currentColor">
+          <path d="M19.43 12.98c.04-.32.07-.66.07-.98s-.03-.66-.07-.98l2.11-1.65a.5.5 0 0 0 .12-.64l-2-3.46a.5.5 0 0 0-.6-.22l-2.49 1a7.14 7.14 0 0 0-1.7-.98l-.38-2.65A.5.5 0 0 0 14 2h-4a.5.5 0 0 0-.49.42l-.38 2.65a7.14 7.14 0 0 0-1.7.98l-2.49-1a.5.5 0 0 0-.6.22l-2 3.46a.5.5 0 0 0 .12.64l2.11 1.65c-.04.32-.07.66-.07.98s.03.66.07.98L2.56 14.63a.5.5 0 0 0-.12.64l2 3.46c.14.24.42.34.68.24l2.49-1c.52.4 1.09.72 1.7.98l.38 2.65a.5.5 0 0 0 .49.42h4a.5.5 0 0 0 .49-.42l.38-2.65c.61-.26 1.18-.58 1.7-.98l2.49 1c.26.1.54 0 .68-.24l2-3.46a.5.5 0 0 0-.12-.64l-2.11-1.65ZM12 15.5A3.5 3.5 0 1 1 12 8.5a3.5 3.5 0 0 1 0 7Z"/>
+        </svg>
         </button>
       </div>
       <div class="flex flex-col items-center gap-8">
